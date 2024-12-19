@@ -20,7 +20,7 @@ svg {
 }
 
 .navbar-nav .nav-link {
-    color: #64CCC5 !important;
+    color: white !important;
 }
 /*
 nav.navbar-putih {
@@ -35,7 +35,7 @@ nav.navbar-putih {
 }
 
 .navbar-brand:hover {
-    color: #64CCC5;
+    color: white;
     font-weight: bold;
 }
 
@@ -54,7 +54,7 @@ nav.navbar-putih {
     height: 2px;
     width: 0;
     position: absolute;
-    background-color: black;
+    background-color: white;
     bottom: 0;
     left: 0;
     transition: width 0.5s;
@@ -66,13 +66,13 @@ nav.navbar-putih {
 
 
 .navbar-brand strong {
-    color: #64CCC5;
+    color: white;
     font-family: 'Archivo', sans-serif;
 }
 
 
 .button-navbar {
-    color: #64CCC5 !important;
+    color: white !important;
     transition: all 0.5s;
 }
 
@@ -85,9 +85,9 @@ nav.navbar-putih {
 }
 
 .btn-project {
-    background-color: #64CCC5;
+    background-color: white;
     color: black;
-    border-color: #64CCC5;
+    border-color: white;
     transition: all 0.2s;
     font-size: 18px;
 }
@@ -103,7 +103,7 @@ nav.navbar-putih {
 }
 
 .home strong {
-    color: #64CCC5;
+    color: white;
 }
 
 
@@ -352,7 +352,7 @@ i {
 }
 
 .skill-box p, .skill-box h4 {
-    color: #333; /* Mengatur warna teks */
+    color: white; /* Mengatur warna teks */
     font-size: 1.1rem;
 }
 
@@ -372,11 +372,11 @@ i {
 
     .home h1 {
         text-align: justify;
-        color: #fff;
+        color: white;
     }
 
     p.penulis {
-        color: #fff;
+        color: white;
         text-align: center;
     }
     
@@ -390,7 +390,7 @@ i {
     }
     
     .btn-project3 {
-        background-color: #fff;
+        background-color: white;
         color: black;
         border-color: #fff;
         font-size: 18px;
