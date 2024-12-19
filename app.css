@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: #64CCC5;
     margin: 0;
     padding: 0;
     outline: none;
@@ -11,7 +11,7 @@ svg {
 }
 
 .navbar {
-    background-color: white;
+    background-color: #64CCC5;
     font-size: 16px;
     font-family: 'Archivo', sans-serif;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
@@ -35,7 +35,7 @@ nav.navbar-putih {
 }
 
 .navbar-brand:hover {
-    color: white;
+    color: #64CCC5;
     font-weight: bold;
 }
 
@@ -66,7 +66,7 @@ nav.navbar-putih {
 
 
 .navbar-brand strong {
-    color: white;
+    color: #64CCC5;
     font-family: 'Archivo', sans-serif;
 }
 
