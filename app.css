@@ -40,7 +40,7 @@ nav.navbar-putih {
 }
 
 .navbar-brand strong:hover{
-    color: white;
+    color: black;
     transition: all 0.5s;
 }
 
@@ -54,7 +54,7 @@ nav.navbar-putih {
     height: 2px;
     width: 0;
     position: absolute;
-    background-color: white;
+    background-color: black;
     bottom: 0;
     left: 0;
     transition: width 0.5s;
@@ -72,7 +72,7 @@ nav.navbar-putih {
 
 
 .button-navbar {
-    color: white !important;
+    color: black !important;
     transition: all 0.5s;
 }
 
@@ -85,9 +85,9 @@ nav.navbar-putih {
 }
 
 .btn-project {
-    background-color: white;
+    background-color: black;
     color: black;
-    border-color: white;
+    border-color: black;
     transition: all 0.2s;
     font-size: 18px;
 }
