@@ -20,11 +20,11 @@ svg {
 }
 
 .navbar-nav .nav-link {
-    color: white !important;
+    color: black !important;
 }
 /*
 nav.navbar-putih {
-    background-color: white;
+    background-color: black;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.582);
     transition: all 0.5s;
 }
