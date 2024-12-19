@@ -24,7 +24,7 @@ svg {
 }
 /*
 nav.navbar-putih {
-    background-color: black;
+    background-color: white;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.582);
     transition: all 0.5s;
 }
@@ -86,7 +86,7 @@ nav.navbar-putih {
 
 .btn-project {
     background-color: white;
-    color: black;
+    color: white;
     border-color: white;
     transition: all 0.2s;
     font-size: 18px;
